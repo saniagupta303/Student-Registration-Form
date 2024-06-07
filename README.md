@@ -3,4 +3,6 @@
 
 2.The HTML(Hypertext Markup Language) is used to design the layout/structure of the webpage and the CSS(Cascading Stylesheet) is used to style the webpage.
 
-3.The Student Registration Form is a UI(User Interface) component comprising input fields for capturing personal information such as name, email, password, contact details, age, and gender. By pressing the SUBMIT button the student information gets submitted.
+3.The Student Registration Form is a UI(User Interface) component comprising input fields for capturing personal information such as name, email, password, contact details, age, and gender and submit button. 
+
+4.By clicking the "SUBMIT" button the student information gets submitted.
